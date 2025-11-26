@@ -1,4 +1,0 @@
-AWS_REGION: us-east-1
-AWS_ACCOUNT_ID: 042889969014
-ECR_REPOSITORY: mdoc-user-story-backend
-CLUSTER_NAME: ai-workshop-demo

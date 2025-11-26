@@ -1,0 +1,31 @@
+# === Core Framework ===
+fastapi
+uvicorn[standard]
+
+# === Data Processing ===
+pandas
+numpy
+openpyxl
+xlrd
+
+# === Machine Learning / Forecasting ===
+tensorflow
+scikit-learn
+
+# === LiteLLM (LLM Gateway) ===
+litellm
+
+# === AWS S3 ===
+boto3
+botocore
+
+# === YAML & Config ===
+PyYAML
+python-dotenv
+
+# === Utils ===
+python-multipart
+requests
+
+# === Extras ===
+tqdm
