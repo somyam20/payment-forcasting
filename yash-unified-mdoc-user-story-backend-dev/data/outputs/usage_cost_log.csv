@@ -1,0 +1,58 @@
+username,time,guid,document_type,client_name,file_name,file_size,video_duration,screenshot_processing,document_generation,prompt_tokens,completion_tokens,total_tokens,open_ai_cost,azure_whisper_cost,total_cost
+user,2025-11-11 10:27:46,aa976da9-4e19-4470-a272-695bb819a87a,,Internal,Meeting Documenter,35.9 MB,2.57,4.63,0.0,811,268,1079,2.0602,2.57,4.63
+user,2025-11-11 10:31:10,67223758-387d-4f0a-8e16-c5b55781cedc,,Internal,Meeting Documenter,35.9 MB,2.57,4.63,0.0,811,268,1079,2.0602,2.57,4.63
+user,2025-11-11 10:32:26,67223758-387d-4f0a-8e16-c5b55781cedc,kt_document,Internal,Meeting Documenter,35.9 MB,2.57,0.0,12.6,4988,1577,6565,12.5953,0.0,12.6
+user,2025-11-12 10:43:44,2e2acd1f-73de-4a06-9bbc-8e04ad83e3da,,Internal,Meeting Documenter,35.9 MB,2.57,4.64,0.0,811,273,1084,2.0655,2.57,4.64
+user,2025-11-12 10:45:17,2e2acd1f-73de-4a06-9bbc-8e04ad83e3da,general_documentation,Internal,Meeting Documenter,35.9 MB,2.57,0.0,16.85,6895,1653,8548,16.8522,0.0,16.85
+user,2025-11-12 12:31:46,6f57903a-07d2-4d17-8ac0-3128f4bc1cb1,,Internal,Meeting Documenter,35.9 MB,2.57,2.57,0.0,0,0,0,0.0,2.57,2.57
+user,2025-11-12 12:34:16,f1d3f630-5c61-48db-b79b-8579d79c76d8,,Internal,Meeting Documenter,35.9 MB,2.57,2.57,0.0,0,0,0,0.0,2.57,2.57
+user,2025-11-12 12:38:09,fc51da9f-255b-4ede-bc3b-0084101b3b5f,,Internal,Meeting Documenter,35.9 MB,2.57,2.57,0.0,0,0,0,0.0,2.57,2.57
+user,2025-11-12 12:42:37,04d9da10-92f1-4361-8ed2-f99819657560,,Internal,Meeting Documenter,35.9 MB,2.57,2.57,0.0,0,0,0,0.0,2.57,2.57
+user,2025-11-12 12:46:31,a5ad63a8-4242-41a5-935f-55362535a50b,,Internal,Meeting Documenter,35.9 MB,2.57,4.65,0.0,811,283,1094,2.0761,2.57,4.65
+user,2025-11-12 12:49:43,7d511990-40e3-4e1f-b24e-05b9e2650978,,Internal,Meeting Documenter,35.9 MB,2.57,4.65,0.0,811,288,1099,2.0814,2.57,4.65
+user,2025-11-12 12:52:45,b19870f2-fb4f-4526-821f-934da2b18e49,,Internal,Meeting Documenter,35.9 MB,2.57,4.63,0.0,811,270,1081,2.0623,2.57,4.63
+user,2025-11-12 12:53:26,b19870f2-fb4f-4526-821f-934da2b18e49,kt_document,Internal,Meeting Documenter,35.9 MB,2.57,0.0,10.92,4235,1554,5789,10.9219,0.0,10.92
+user,2025-11-12 13:00:12,a489922f-0a21-4fe3-9a23-a530f92cdd4d,,Internal,Meeting Documenter,35.9 MB,2.57,4.65,0.0,811,284,1095,2.0771,2.57,4.65
+user,2025-11-12 13:00:52,a489922f-0a21-4fe3-9a23-a530f92cdd4d,kt_document,Internal,Meeting Documenter,35.9 MB,2.57,0.0,10.76,4242,1386,5628,10.7591,0.0,10.76
+user,2025-11-17 18:30:01,9bc1d46c-a43d-451b-8530-b7f1f78a94d4,,Test,meeting3,12.54 MB,3.15,5.55,0.0,926,347,1273,2.3958,3.15,5.55
+user,2025-11-17 18:39:50,80101c0a-c989-41cd-ab59-f7779c0bf825,,sample,meeting3,12.54 MB,3.15,5.52,0.0,924,330,1254,2.3734,3.15,5.52
+user,2025-11-17 20:13:57,426d387b-3bce-4820-be9e-a4e7b79d50d2,,Test,meeting3,12.54 MB,3.15,5.54,0.0,935,326,1261,2.3932,3.15,5.54
+user,2025-11-17 20:14:41,426d387b-3bce-4820-be9e-a4e7b79d50d2,meeting_summary,Test,meeting3,12.54 MB,3.15,0.0,2.39,935,326,1261,2.3932,0.0,2.39
+user,2025-11-17 20:32:39,e976428e-598a-40ae-87ba-9e25cf9d0919,,sample,meeting3,12.54 MB,3.15,5.55,0.0,932,338,1270,2.3994,3.15,5.55
+user,2025-11-17 20:34:13,e976428e-598a-40ae-87ba-9e25cf9d0919,meeting_summary,sample,meeting3,12.54 MB,3.15,0.0,10.76,4235,1400,5635,10.7586,0.0,10.76
+user,2025-11-17 20:54:31,0a5b0b61-9607-4615-a9eb-0e9f018cbf7e,,Sample,meeting3,12.54 MB,3.15,5.57,0.0,929,365,1294,2.4214,3.15,5.57
+user,2025-11-17 20:58:49,7d3f5ae2-4fa1-4d26-b92d-a9baa164edef,,sample,meeting3,12.54 MB,3.15,5.55,0.0,923,354,1277,2.3966,3.15,5.55
+user,2025-11-17 21:06:09,81c9a7cc-dce9-4fe2-b803-e64a199a81ee,,Test,meeting3,12.54 MB,3.15,5.61,0.0,935,391,1326,2.4621,3.15,5.61
+user,2025-11-17 21:07:45,81c9a7cc-dce9-4fe2-b803-e64a199a81ee,meeting_summary,Test,meeting3,12.54 MB,3.15,0.0,12.62,4998,1578,6576,12.6183,0.0,12.62
+user,2025-11-19 22:00:10,83cdd640-d74c-4124-864b-5dae79a7e1e8,,Test,meeting3,12.54 MB,3.15,3.15,0.0,0,0,0,0.0,3.15,3.15
+user,2025-11-19 22:00:33,83cdd640-d74c-4124-864b-5dae79a7e1e8,meeting_summary,Test,meeting3,12.54 MB,3.15,0.0,0.0,0,0,0,0.0,0.0,0.0
+user,2025-11-19 23:14:35,ab9210bd-9af7-4511-aa0e-942d0805eba2,,sample,meeting3,12.54 MB,3.15,3.15,0.0,0,0,0,0.0,3.15,3.15
+user,2025-11-19 23:15:11,ab9210bd-9af7-4511-aa0e-942d0805eba2,meeting_summary,sample,meeting3,12.54 MB,3.15,0.0,0.0,0,0,0,0.0,0.0,0.0
+user,2025-11-19 23:18:49,687fae1e-e629-4b86-b39a-3e10864f74f7,,Test,meeting3,12.54 MB,3.15,3.15,0.0,0,0,0,0.0,3.15,3.15
+user,2025-11-19 23:24:58,687fae1e-e629-4b86-b39a-3e10864f74f7,meeting_summary,Test,meeting3,12.54 MB,3.15,0.0,0.0,0,0,0,0.0,0.0,0.0
+user,2025-11-19 23:57:28,3e8e07da-fbc5-4091-940d-81ff05671b69,,Test,meeting3,12.54 MB,3.15,3.15,0.0,0,0,0,0.0,3.15,3.15
+user,2025-11-20 00:04:38,3e8e07da-fbc5-4091-940d-81ff05671b69,meeting_summary,Test,meeting3,12.54 MB,3.15,0.0,0.0,0,0,0,0.0,0.0,0.0
+user,2025-11-20 10:11:52,f7751ec9-2d56-4ff1-85c7-7fa4da00eb2a,,Test,meeting3,12.54 MB,3.15,3.15,0.0,0,0,0,0.0,3.15,3.15
+user,2025-11-20 10:12:10,f7751ec9-2d56-4ff1-85c7-7fa4da00eb2a,meeting_summary,Test,meeting3,12.54 MB,3.15,0.0,0.0,0,0,0,0.0,0.0,0.0
+user,2025-11-20 10:33:07,e47400e6-c4a7-4319-be8a-1bbc31ef9a58,,Test,meeting3,12.54 MB,3.15,3.15,0.0,0,0,0,0.0,3.15,3.15
+user,2025-11-20 10:33:55,e47400e6-c4a7-4319-be8a-1bbc31ef9a58,meeting_summary,Test,meeting3,12.54 MB,3.15,0.0,0.0,0,0,0,0.0,0.0,0.0
+user,2025-11-20 10:56:30,bdabe1ce-0a27-4d20-8704-96a683d1dd60,,Test,meeting3,12.54 MB,3.15,3.15,0.0,0,0,0,0.0,3.15,3.15
+user,2025-11-20 10:56:53,bdabe1ce-0a27-4d20-8704-96a683d1dd60,meeting_summary,Test,meeting3,12.54 MB,3.15,0.0,0.0,0,0,0,0.0,0.0,0.0
+user,2025-11-20 11:06:24,1ca50671-3439-425b-b26b-2f514ed3438f,,Test,meeting3,12.54 MB,3.15,3.15,0.0,0,0,0,0.0,3.15,3.15
+user,2025-11-20 11:08:21,1ca50671-3439-425b-b26b-2f514ed3438f,meeting_summary,Test,meeting3,12.54 MB,3.15,0.0,0.0,0,0,0,0.0,0.0,0.0
+user,2025-11-20 11:22:41,268a446a-6fec-4c22-9659-74130e3578a2,,Test,meeting3,12.54 MB,3.15,3.15,0.0,0,0,0,0.0,3.15,3.15
+user,2025-11-20 11:31:36,bda33e0c-d06c-4b63-8da7-936318ffee22,,Test,meeting3,12.54 MB,3.15,3.15,0.0,0,0,0,0.0,3.15,3.15
+user,2025-11-20 12:00:17,31db3f59-7085-4d0e-becd-2dc2b8b117a0,,Test,meeting3,12.54 MB,3.15,3.15,0.0,0,0,0,0.0,3.15,3.15
+user,2025-11-20 12:00:44,31db3f59-7085-4d0e-becd-2dc2b8b117a0,meeting_summary,Test,meeting3,12.54 MB,3.15,0.0,0.0,0,0,0,0.0,0.0,0.0
+user,2025-11-20 12:12:33,c11b2cfc-da35-447b-9a73-60df5949c7fd,,Test,meeting3,12.54 MB,3.15,3.15,0.0,0,0,0,0.0,3.15,3.15
+user,2025-11-20 12:12:54,c11b2cfc-da35-447b-9a73-60df5949c7fd,meeting_summary,Test,meeting3,12.54 MB,3.15,0.0,0.0,0,0,0,0.0,0.0,0.0
+user,2025-11-20 12:19:16,0c414a4b-f816-470c-9362-49035c806239,,Internal,meeting3,12.54 MB,3.15,3.15,0.0,0,0,0,0.0,3.15,3.15
+user,2025-11-20 12:19:45,0c414a4b-f816-470c-9362-49035c806239,meeting_summary,Internal,meeting3,12.54 MB,3.15,0.0,0.0,0,0,0,0.0,0.0,0.0
+user,2025-11-20 14:33:41,0d47e0ea-fba0-453e-8cdc-6b4afd157b81,,Internal,7367b221-ac8a-496d-9c2f-0c792a4f659f,0.33 MB,11.12,11.12,0.0,0,0,0,0.0,11.12,11.12
+user,2025-11-20 14:35:08,0d47e0ea-fba0-453e-8cdc-6b4afd157b81,meeting_summary,Internal,7367b221-ac8a-496d-9c2f-0c792a4f659f,0.33 MB,11.12,0.0,0.0,0,0,0,0.0,0.0,0.0
+user,2025-11-20 14:41:26,90692098-3996-4b1f-a947-50e7dbbe4014,,Internal,495b5224-62b8-4a78-827f-9a6cf6ecdfe6,0.33 MB,11.12,11.12,0.0,0,0,0,0.0,11.12,11.12
+user,2025-11-20 14:42:04,90692098-3996-4b1f-a947-50e7dbbe4014,meeting_summary,Internal,495b5224-62b8-4a78-827f-9a6cf6ecdfe6,0.33 MB,11.12,0.0,0.0,0,0,0,0.0,0.0,0.0
+user,2025-11-20 14:53:11,e34bb1b0-d100-482e-8516-9286e0ca9a7c,,Internal,09882fb1-d9b7-4c9f-9d01-97ecb5a59bde,12.54 MB,3.15,3.15,0.0,0,0,0,0.0,3.15,3.15
+user,2025-11-20 14:54:27,e34bb1b0-d100-482e-8516-9286e0ca9a7c,meeting_summary,Internal,09882fb1-d9b7-4c9f-9d01-97ecb5a59bde,12.54 MB,3.15,0.0,0.0,0,0,0,0.0,0.0,0.0
+user,2025-11-20 15:31:23,c383d246-76b2-4a83-9b92-a2450d62a04c,,intrnal,25b8a2d3-5367-44cd-9526-fd26bef0d085,12.54 MB,3.15,3.15,0.0,0,0,0,0.0,3.15,3.15
+user,2025-11-20 15:33:02,c383d246-76b2-4a83-9b92-a2450d62a04c,meeting_summary,intrnal,25b8a2d3-5367-44cd-9526-fd26bef0d085,12.54 MB,3.15,0.0,8.24,3349,858,4207,8.2438,0.0,8.24

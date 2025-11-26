@@ -1,0 +1,22 @@
+# Whisper/Audio Processing Configuration
+whisper:
+  provider: "azure"  # Options: azure, openai, local
+  
+  azure:
+    endpoint: "${AZURE_OPENAI_ENDPOINT}"
+    api_key: "${AZURE_OPENAI_API_KEY}"
+    api_version: "2024-02-01"
+  
+  openai:
+    api_key: "${OPENAI_API_KEY}"
+    model: "whisper-1"
+  
+  local:
+    model_size: "base"
+    device: "cpu"
+    optimize: true
+
+costs:
+  azure_whisper_per_minute: 0.006
+  openai_whisper_per_minute: 0.006
+

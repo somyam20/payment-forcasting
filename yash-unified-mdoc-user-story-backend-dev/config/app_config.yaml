@@ -1,0 +1,34 @@
+# Application Configuration
+application:
+  name: "Meeting Document Generator"
+  version: "2.0.0"
+  
+storage:
+  local_storage_dir: "data/outputs"
+  cache_dir: "data/cache"
+  temp_dir: "data/temp"
+  audit_log_file: "data/outputs/audit_log.csv"
+  usage_cost_log_file: "data/outputs/usage_cost_log.csv"
+  
+processing:
+  screenshot:
+    threshold: 25
+    min_area: 2000
+    text_change_threshold: 10
+    cooldown: 3
+    ssim_threshold: 0.85
+  
+  audio:
+    whisper_model: "base"
+    language: "en"
+    provider: "azure"  # Options: azure, openai, local
+  
+  parallel_processing:
+    enabled: true
+    max_workers: 4
+
+server:
+  base_url: "${BASE_URL}"
+  max_upload_size_mb: 1000
+  max_message_size_mb: 1000
+

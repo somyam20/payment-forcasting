@@ -1,0 +1,38 @@
+2025-11-13 13:58:34,096 - INFO - --- SESSION START: session_20251113_135834_116441 ---
+2025-11-13 13:58:50,335 - INFO - OPENAI_USAGE: {"timestamp": "2025-11-13T08:28:50.335877", "service": "openai", "session_id": null, "module": "src.utils.media_utils", "function": "analyze_speech_transcript", "model": "gpt-4o-mini", "prompt_tokens": 811, "completion_tokens": 283, "total_tokens": 1094}
+2025-11-13 14:00:11,582 - INFO - --- SESSION START: session_20251113_140011_812b9d ---
+2025-11-13 14:00:24,289 - INFO - OPENAI_USAGE: {"timestamp": "2025-11-13T08:30:24.289732", "service": "openai", "session_id": null, "module": "src.document.document_generator", "function": "_convert_mermaid_to_dot", "model": "gpt-4o-mini", "prompt_tokens": 2090, "completion_tokens": 361, "total_tokens": 2451}
+2025-11-13 14:00:30,799 - INFO - OPENAI_USAGE: {"timestamp": "2025-11-13T08:30:30.799704", "service": "openai", "session_id": null, "module": "src.document.document_generator", "function": "_generate_missing_questions", "model": "gpt-4o-mini", "prompt_tokens": 549, "completion_tokens": 179, "total_tokens": 728}
+2025-11-13 14:00:36,692 - INFO - OPENAI_USAGE: {"timestamp": "2025-11-13T08:30:36.692380", "service": "openai", "session_id": null, "module": "src.document.document_generator", "function": "_generate_process_map", "model": "gpt-4o-mini", "prompt_tokens": 558, "completion_tokens": 252, "total_tokens": 810}
+2025-11-13 14:03:36,484 - INFO - --- SESSION START: session_20251113_140336_b36cc4 ---
+2025-11-13 14:03:57,527 - INFO - OPENAI_USAGE: {"timestamp": "2025-11-13T08:33:57.527093", "service": "openai", "session_id": null, "module": "src.utils.media_utils", "function": "analyze_speech_transcript", "model": "gpt-4o-mini", "prompt_tokens": 811, "completion_tokens": 281, "total_tokens": 1092}
+2025-11-13 14:04:18,890 - INFO - --- SESSION START: session_20251113_140418_55e273 ---
+2025-11-13 14:04:34,069 - INFO - OPENAI_USAGE: {"timestamp": "2025-11-13T08:34:34.069014", "service": "openai", "session_id": null, "module": "src.document.document_generator", "function": "_convert_mermaid_to_dot", "model": "gpt-4o-mini", "prompt_tokens": 2093, "completion_tokens": 426, "total_tokens": 2519}
+2025-11-13 14:04:38,567 - INFO - OPENAI_USAGE: {"timestamp": "2025-11-13T08:34:38.567356", "service": "openai", "session_id": null, "module": "src.document.document_generator", "function": "_generate_missing_questions", "model": "gpt-4o-mini", "prompt_tokens": 549, "completion_tokens": 197, "total_tokens": 746}
+2025-11-13 14:04:43,896 - INFO - OPENAI_USAGE: {"timestamp": "2025-11-13T08:34:43.895939", "service": "openai", "session_id": null, "module": "src.document.document_generator", "function": "_generate_process_map", "model": "gpt-4o-mini", "prompt_tokens": 558, "completion_tokens": 253, "total_tokens": 811}
+2025-11-13 16:35:07,487 - INFO - --- SESSION START: session_20251113_163507_c222e6 ---
+2025-11-13 16:49:32,543 - INFO - --- SESSION START: session_20251113_164932_50c99d ---
+2025-11-13 16:56:58,375 - INFO - --- SESSION START: session_20251113_165658_8697cc ---
+2025-11-13 17:02:54,785 - INFO - --- SESSION START: session_20251113_170254_3571fb ---
+2025-11-13 17:13:32,628 - INFO - --- SESSION START: session_20251113_171332_4aca12 ---
+2025-11-13 17:51:41,737 - INFO - --- SESSION START: session_20251113_175141_347b67 ---
+2025-11-13 18:14:08,906 - INFO - --- SESSION START: session_20251113_181408_e45c1c ---
+2025-11-13 18:17:31,329 - INFO - --- SESSION START: session_20251113_181731_a2822b ---
+2025-11-13 18:27:26,361 - INFO - --- SESSION START: session_20251113_182726_2286cb ---
+2025-11-13 18:35:24,125 - INFO - --- SESSION START: session_20251113_183524_2e44b8 ---
+2025-11-13 18:36:09,175 - INFO - OPENAI_USAGE: {"timestamp": "2025-11-13T13:06:09.175020", "service": "openai", "session_id": null, "module": "src.utils.media_utils", "function": "analyze_speech_transcript", "model": "gpt-4o-mini", "prompt_tokens": 811, "completion_tokens": 279, "total_tokens": 1090}
+2025-11-13 19:35:57,937 - INFO - --- SESSION START: session_20251113_193557_81ac4c ---
+2025-11-13 19:36:26,615 - INFO - OPENAI_USAGE: {"timestamp": "2025-11-13T14:06:26.614855", "service": "openai", "session_id": null, "module": "src.document.document_generator", "function": "_convert_mermaid_to_dot", "model": "gpt-4o-mini", "prompt_tokens": 2323, "completion_tokens": 765, "total_tokens": 3088}
+2025-11-13 19:36:35,780 - INFO - OPENAI_USAGE: {"timestamp": "2025-11-13T14:06:35.780758", "service": "openai", "session_id": null, "module": "src.document.document_generator", "function": "_generate_missing_questions", "model": "gpt-4o-mini", "prompt_tokens": 549, "completion_tokens": 183, "total_tokens": 732}
+2025-11-13 19:36:47,736 - INFO - OPENAI_USAGE: {"timestamp": "2025-11-13T14:06:47.735946", "service": "openai", "session_id": null, "module": "src.document.document_generator", "function": "_generate_process_map", "model": "gpt-4o-mini", "prompt_tokens": 558, "completion_tokens": 257, "total_tokens": 815}
+2025-11-14 12:45:37,141 - INFO - --- SESSION START: session_20251114_124537_b41a26 ---
+2025-11-14 12:48:38,846 - INFO - --- SESSION START: session_20251114_124838_0cb791 ---
+2025-11-14 12:49:18,666 - INFO - OPENAI_USAGE: {"timestamp": "2025-11-14T07:19:18.666538", "service": "openai", "session_id": null, "module": "src.utils.media_utils", "function": "analyze_speech_transcript", "model": "gpt-4o-mini", "prompt_tokens": 811, "completion_tokens": 273, "total_tokens": 1084}
+2025-11-14 12:50:30,863 - INFO - --- SESSION START: session_20251114_125030_ddd0e6 ---
+2025-11-14 12:50:54,627 - INFO - OPENAI_USAGE: {"timestamp": "2025-11-14T07:20:54.626583", "service": "openai", "session_id": null, "module": "src.document.document_generator", "function": "_convert_mermaid_to_dot", "model": "gpt-4o-mini", "prompt_tokens": 2321, "completion_tokens": 709, "total_tokens": 3030}
+2025-11-14 12:51:02,310 - INFO - OPENAI_USAGE: {"timestamp": "2025-11-14T07:21:02.310279", "service": "openai", "session_id": null, "module": "src.document.document_generator", "function": "_generate_missing_questions", "model": "gpt-4o-mini", "prompt_tokens": 549, "completion_tokens": 187, "total_tokens": 736}
+2025-11-14 12:51:21,489 - INFO - OPENAI_USAGE: {"timestamp": "2025-11-14T07:21:21.489120", "service": "openai", "session_id": null, "module": "src.document.document_generator", "function": "_generate_process_map", "model": "gpt-4o-mini", "prompt_tokens": 558, "completion_tokens": 318, "total_tokens": 876}
+2025-11-14 14:53:04,733 - INFO - --- SESSION START: session_20251114_145304_284b58 ---
+2025-11-14 15:04:48,828 - INFO - OPENAI_USAGE: {"timestamp": "2025-11-14T09:34:48.827425", "service": "openai", "session_id": null, "module": "src.utils.media_utils", "function": "analyze_speech_transcript", "model": "gpt-4o-mini", "prompt_tokens": 928, "completion_tokens": 334, "total_tokens": 1262}
+2025-11-14 21:38:57,948 - INFO - --- SESSION START: session_20251114_213857_b40085 ---
+2025-11-14 21:40:29,295 - INFO - --- SESSION START: session_20251114_214029_8c480d ---

@@ -1,0 +1,29 @@
+# Model Configuration for LLM Integration
+models:
+  default:
+    provider: "azure_openai"  # Options: azure_openai, openai, anthropic, gemini
+    model_name: "gpt-4o"
+    temperature: 0.7
+    max_tokens: 2048
+    top_p: 0.95
+  
+  azure_openai:
+    endpoint: "${AZURE_OPENAI_ENDPOINT}"
+    api_key: "${AZURE_OPENAI_API_KEY}"
+    api_version: "2024-02-01"
+    deployment_name: "${AZURE_GPT_DEPLOYMENT_NAME}"
+  
+  openai:
+    api_key: "${OPENAI_API_KEY}"
+    model_name: "gpt-4o"
+
+api_settings:
+  timeout: 30
+  max_retries: 3
+  retry_delay: 1
+
+generation_params:
+  default_temperature: 0.7
+  creative_temperature: 0.9
+  precise_temperature: 0.3
+
